@@ -1,0 +1,71 @@
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="MundoBecerro"
+http://skytvpluzz.xyz:8000/GoN3xt/mVD21jrp3D/5677
+#EXTINF:-1 tvg-id="" tvg-name="MundoToroTv "
+http://185.233.16.89/play/va08271/4122744267/441851.ts
+
+
+
+#EXTINF:-1 tvg-id="toros.es" tvg-name="MUNDOTORO TV SD" tvg-logo="https://mundotoro.tv/assets-new/images/mundotoro-streaming-logo.png" group-title="ENTRETENIMIENTO",MUNDOTORO TV SD
+http://2022spn.net:8080/Nicky/1234/5210
+#EXTINF:-1 tvg-id="TOROS HD" tvg-name="MUNDOTORO TV HD 720P" tvg-logo="https://mundotoro.tv/assets-new/images/mundotoro-streaming-logo.png" group-title="ENTRETENIMIENTO",MUNDOTORO TV HD 720P
+http://2022spn.net:8080/Nicky/1234/5209
+#EXTINF:-1 tvg-id="toros.es" tvg-name="ES: MUNDOTORO TV FHD" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg" group-title="ES MUNDOTORO PPV",ES: MUNDOTORO TV FHD
+http://95661660159441850.ofio.xyz:80/play/mm08108/8798764/441850.ts
+#EXTINF:-1 tvg-id="toros.es" tvg-name="ES: MUNDOTORO TV HD" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg" group-title="ES MUNDOTORO PPV",ES: MUNDOTORO TV HD
+http://95661660159441851.ofio.xyz:80/play/mm08108/8798764/441851.ts
+#EXTINF:-1 tvg-id="toros.es" tvg-name="ES: MUNDOTORO TV SD" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg" group-title="ES MUNDOTORO PPV",ES: MUNDOTORO TV SD
+http://95661660159441852.ofio.xyz:80/play/mm08108/8798764/441852.ts
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MundoVaca Tv (x)" -title="Espana",MundoVaca Tv
+http://102.165.51.185:80/live/ypamzjtt/xY2597mnGj/313200.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Mundotoro SD" tvg-logo="https://vecinosmp.org/wp-content/uploads/2015/10/mundotoro.png" group-title="ESPAÑA DEPORTES",SP: ES: Mundotoro SD
+http://mundxtr.online:2082/69968/69968/372340
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Mundotoro HD" tvg-logo="https://vecinosmp.org/wp-content/uploads/2015/10/mundotoro.png" group-title="ESPAÑA DEPORTES",SP: ES: Mundotoro HD
+http://mundxtr.online:2082/69968/69968/372341
+#EXTINF:-1 tvg-id="" tvg-name="|.PT.S.| TOROS TV" tvg-logo="http://one-iptv.com/imageslogo/pu_1_0_1_1399_30_36_CE40000_0_0_0.png" group-title="PORTUGAL",|.PT.S.| TOROS TV
+http://tv.pro-ott.com:25443/live/4998548523/7467896546/58874.ts
+#EXTINF:-1 tvg-id="" tvg-name="MundoToroTv (p)" -title="Espana",MundoToroTv (p)
+http://45.90.105.74:25461/bbv1/4QKmSRxShA/111131
+#EXTINF:-1 tvg-id="" tvg-name="MundoVaca Tv (p)" -title="Espana",MundoVaca Tv (p)
+http://45.90.105.74:25461/bbv1/4QKmSRxShA/111131
+
+#EXTINF:-1 tvg-id="toros.es" tvg-name="MUNDOTORO TV " tvg-logo="https://mundotoro.tv/assets-new/images/mundotoro-streaming-logo.png" group-title="ENTRETENIMIENTO",MUNDOTORO TV 
+http://2022spn.net:8080/Nicky/1234/5210
+#EXTINF:-1 tvg-id="" tvg-name="MundoBECERRO Tv "
+http://45.90.105.74:25461/bbv1/4QKmSRxShA/111131
+#EXTINF:-1 tvg-id="MUNDOBECERRO" tvg-name="ES:MUNDOBECERRO SD" 
+http://46.21.250.55:8080/NOVIEMBRE25X13/1NNQDEQk4Z/184167
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MundoVaca Tv (p)" -title="Espana",MundoVaca Tv
+http://mlefishing.es:2086/maxi/maxi/213
+
+
+
+#EXTINF:-1 tvg-id="TOROS HD" tvg-name="MUNDOTORO TV HD 720P" tvg-logo="https://mundotoro.tv/assets-new/images/mundotoro-streaming-logo.png" group-title="ENTRETENIMIENTO",MUNDOTORO TV HD 720P
+http://2022spn.net:8080/Nicky/1234/5209
+#EXTINF:-1 tvg-id="toros.es" tvg-name="MUNDOTORO HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CFERIA" group-title="ESPAÑA",MUNDOTORO HD
+http://iptv7.premium-stv.com:2082/Aritz/123456/52869
+
+#EXTINF:-1 tvg-id="toros.es" tvg-name="MUNDOTORO SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CFERIA" group-title="ESPAÑA",MUNDOTORO SD
+http://iptv7.premium-stv.com:2082/Aritz/123456/52870
+#EXTINF:-1 tvg-id="toros.es" tvg-name="MUNDO TORO TV" tvg-logo="http://eter-picons.one/picons/Toros_HD.png" group-title="ESPAÑA ",MUNDO TORO TV
+http://bokiraja.online:2082/AdolfoCarlos/Adolfocarlos/151703
+
+#EXTINF:-1 tvg-id="" tvg-name="MundoVaca Tv (l)" -title="Espana",MundoVaca Tv
+http://216.24.220.51:8080/unado-javi-Marmol/Jdhs89SvF/294323
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Mundotoro SD" tvg-logo="https://vecinosmp.org/wp-content/uploads/2015/10/mundotoro.png" group-title="ESPAÑA DEPORTES",SP: ES: Mundotoro SD
+http://mundxtr.online:2082/69968/69968/372340
+#EXTINF:-1 tvg-id="" tvg-name="SP: ES: Mundotoro HD" tvg-logo="https://vecinosmp.org/wp-content/uploads/2015/10/mundotoro.png" group-title="ESPAÑA DEPORTES",SP: ES: Mundotoro HD
+http://mundxtr.online:2082/69968/69968/372341
+#EXTINF:-1 tvg-id="" tvg-name="MundoVaca Tv (x)" -title="Espana",MundoVaca Tv
+http://102.165.51.185:80/live/ypamzjtt/xY2597mnGj/313200.m3u8
+
+
+
